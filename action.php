@@ -1,6 +1,7 @@
 <?php
 include("connection.php");
 session_start();
+//echo "sss"
 
 switch($_POST["a"]){
 	
